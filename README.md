@@ -19,9 +19,9 @@ Ten projekt stanowi zapis analizy, modelowania oraz implementacji w ramach [Doma
 
 Punktem wyjścia do rozpoznania domeny jest board dostępny w ramach Domain Explorers. Opisuje on wysokopoziomy przebieg procesów załadunku oraz rozładunku skrzynkomatu, a także proces odbioru przesyłki przez odbiorcę.
 
-![Big Picture EventStorming - początek](assets/images/big-picture-init-small.jpg)
+![Big Picture EventStorming](Miro/MT-EventStorming-DomainExplorers.jpg)
 
-Aby pobrać pełną wersję boarda, kliknij [tutaj](assets/images/big-picture-init.jpg). 
+Link do boarda, kliknij [tutaj](https://miro.com/app/board/o9J_lRD7U4M=/). 
 
 #### Wersja finalna
 
